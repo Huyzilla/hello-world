@@ -1,2 +1,2 @@
-# hello-world
-This repository is for practicing the GitHub Flow.
+Tran Quang Huy
+28/09/2004
